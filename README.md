@@ -5,7 +5,6 @@
 </div>
 <div>
 <a href="https://github.com/henriwasd">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriwasd&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henriwasd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriwasd)](https://github.com/henriwasd/github-readme-stats)
+<img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriwasd&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henriwasd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>

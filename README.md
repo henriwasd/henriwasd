@@ -8,6 +8,6 @@
 <div>
    ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Larsonkv/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/henriwasd/count.svg" />
  </p>
 </div>

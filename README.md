@@ -5,3 +5,9 @@
   <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriwasd&layout=compact&langs_count=7&theme=tokyonight"/>
   <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henriwasd&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </div>
+<div>
+   ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Larsonkv/count.svg" />
+ </p>
+</div>
